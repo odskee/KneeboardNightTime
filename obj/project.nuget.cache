@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5o50mSBXzOV/nSE4lG0L0XjY3EyFmnlImGQVn+EOPjvI8Nld3XRx9ET0q87A73X7xclJvXPVsGpbeNQJ28cjg==",
+  "success": true,
+  "projectFilePath": "D:\\Libraries\\Documents\\Projects\\KneeboardNighttime\\KneeboardNighttime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tbtom\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\tbtom\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
